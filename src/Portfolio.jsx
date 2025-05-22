@@ -25,7 +25,7 @@ const projects = [
   {
     title: "iDone",
     description: "iDone - It Manages your To-Do list built with React and TailwindCss.",
-    link: "https://i-done.vercel.app",
+    link: "https://i-done.vercel.app/",
   },
   {
     title: "Weather Dashboard",
@@ -132,7 +132,7 @@ export default function Portfolio() {
               <Github className="w-6 h-6" />
             </motion.a>
             <motion.a
-              href="https://linkedin.com/in/ronit-murabiya"
+              href="https://www.linkedin.com/in/ronit-murabiya-85488b2b0?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
               target="_blank"
               aria-label="LinkedIn"
               whileHover={{ scale: 1.2 }}
